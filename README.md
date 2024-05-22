@@ -1,0 +1,1 @@
+The Number Guessing Game is a simple and fun application where the player tries to guess a randomly generated number between 1 and 100. This game is a great way to practice basic programming skills and logic.
